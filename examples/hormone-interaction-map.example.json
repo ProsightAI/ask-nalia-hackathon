@@ -1,0 +1,15 @@
+{
+  "story_summary": "Synthetic public-showcase example.",
+  "next_question": {
+    "question": "What changed around the time this pattern began?",
+    "why_it_matters": "Helps separate competing explanations without assuming a hormonal cause."
+  },
+  "interaction_map": {
+    "what_is_known": [],
+    "what_may_be_connected": [],
+    "what_is_uncertain": [],
+    "what_else_may_matter": [],
+    "what_could_help_clarify": []
+  },
+  "contains_unverified_evidence": true
+}
